@@ -187,7 +187,7 @@ contactarme a través de mi email **joaquingarciaplante@gmail.com** o en mi perf
     alt="joaquin-garcia-plante"
   />
 </p>
-
+<br>
 <p>
   &nbsp;<img
     align="center"
@@ -195,7 +195,7 @@ contactarme a través de mi email **joaquingarciaplante@gmail.com** o en mi perf
     alt="joaquin-garcia-plante"
   />
 </p>
-
+<br>
 <p>
   <img
     align="center"
