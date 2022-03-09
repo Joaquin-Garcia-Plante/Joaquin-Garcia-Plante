@@ -186,9 +186,9 @@ contactarme a través de mi email **joaquingarciaplante@gmail.com** o en mi perf
     src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquin-garcia-plante&show_icons=true&locale=en&layout=compact"
     alt="joaquin-garcia-plante"
   />
+  <br>
 </p>
 <br>
-holaaaa
 <p>
   &nbsp;<img
     align="center"
