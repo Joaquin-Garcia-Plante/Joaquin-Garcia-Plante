@@ -188,7 +188,7 @@ contactarme a través de mi email **joaquingarciaplante@gmail.com** o en mi perf
   />
   <br>
 </p>
-<br>
+<br></br>
 <p>
   &nbsp;<img
     align="center"
