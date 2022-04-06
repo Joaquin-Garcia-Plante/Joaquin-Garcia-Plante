@@ -5,6 +5,10 @@
 </div>
 <h2 align="left">📖 Sobre mi</h2>
 <h4 align="center">Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, SQL, MongoDB.</h4>
+
+<p align="left">
+    <a href="https://portfolio-psi-puce.vercel.app/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+</p>
 <br />
 <h2 align="left">🛠 Tecnologías</h2>
 <div>
