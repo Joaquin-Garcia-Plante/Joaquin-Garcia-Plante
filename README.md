@@ -4,7 +4,7 @@
   <img align="center" style="width: 50%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 </div>
 <h2 align="left">📖 Sobre mi</h2>
-<h5 align="center">Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, SQL, MongoDB.</h5>
+<h4 align="center">Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, SQL, MongoDB.</h4>
 <br />
 <h2 align="left">🛠 &nbsp; Tecnologías</h2>
 <div>
@@ -27,10 +27,10 @@
 
 <h2 align="left">📌 Alguno de mis proyectos</h2>
 <div>
-  <img width="500px" height="250px" src="https://i.ibb.co/4gpX6mj/Food.png" />
-  <img width="500px" height="250px" src="https://i.ibb.co/CBnjxzL/Todo.png" />
-  <img width="500px" height="250px" src="https://i.ibb.co/y6jGQfs/Clima.png" />
-  <img width="500px" height="250px" src="https://i.ibb.co/DtxH8rX/Defi.png" />
+  <img width="250px" height="100px" src="https://i.ibb.co/4gpX6mj/Food.png" />
+  <img width="250px" height="100px" src="https://i.ibb.co/CBnjxzL/Todo.png" />
+  <img width="250px" height="100px" src="https://i.ibb.co/y6jGQfs/Clima.png" />
+  <img width="250px" height="100px" src="https://i.ibb.co/DtxH8rX/Defi.png" />
 </div>
 
 <br />
