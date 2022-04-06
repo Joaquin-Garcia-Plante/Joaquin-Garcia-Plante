@@ -1,8 +1,7 @@
 <h1 align="center">Hola mundo! 👋, soy Joaquín García</h1>
-<h3 align="center">
-  Soy desarrollador web full stack enamorado de la programación y con una
-  increíble pasión por aprender y saber más cada día
-</h3>
+<h5 align="center">
+  Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, SQL, MongoDB.
+</h5>
 <div align="center">
   <img
   align="center" style="width: 50%"
@@ -18,14 +17,14 @@
 </p>
 
 - 🔭 Actualmente estoy aprendiendo y practicando cada día en tecnologías como
-**React, CSS,JavaScript, Sequelize, Express, PostgreSQL, Node** 
+**React, CSS,JavaScript, Sequelize, Express, PostgreSQL, Node, MongoDB** 
 - 📫 Pueden
 contactarme a través de mi email **joaquingarciaplante@gmail.com** o en mi perfil de LinkedIn que aparece justo abajo
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/linkedin.com/in/joaquín-garcía-031220221/"
+    href="https://www.linkedin.com/in/joaquingplante/"
     target="blank"
     ><img
       align="center"
