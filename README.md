@@ -6,7 +6,7 @@
 <h2 align="left">📖 Sobre mi</h2>
 <h4 align="center">Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, SQL, MongoDB.</h4>
 <br />
-<h2 align="left">🛠 &nbsp; Tecnologías</h2>
+<h2 align="left">🛠 Tecnologías</h2>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" />
