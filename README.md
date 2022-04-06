@@ -27,10 +27,10 @@
 
 <h2 align="left">📌 Alguno de mis proyectos</h2>
 <div>
-  <img width="400px" height="200px" src="https://i.ibb.co/4gpX6mj/Food.png" />
-  <img width="400px" height="200px" src="https://i.ibb.co/CBnjxzL/Todo.png" />
-  <img width="400px" height="200px" src="https://i.ibb.co/y6jGQfs/Clima.png" />
-  <img width="400px" height="200px" src="https://i.ibb.co/DtxH8rX/Defi.png" />
+  <img width="450px" height="200px" src="https://i.ibb.co/4gpX6mj/Food.png" />
+  <img width="450px" height="200px" src="https://i.ibb.co/CBnjxzL/Todo.png" />
+  <img width="450px" height="200px" src="https://i.ibb.co/y6jGQfs/Clima.png" />
+  <img width="450px" height="200px" src="https://i.ibb.co/DtxH8rX/Defi.png" />
 </div>
 
 <br />
