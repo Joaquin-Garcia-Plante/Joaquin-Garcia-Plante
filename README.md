@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" /> Soy Joaquín García, Full Stack Developer</h1>
+<h1 align="center">¡Hola mundo! Soy Joaquín García, Full Stack Developer</h1>
 
 <div align="center">
   <img align="center" style="width: 50%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
