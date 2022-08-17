@@ -41,7 +41,7 @@
 <h2 align="left">📌 Alguno de mis proyectos</h2>
 <div>
   <img url="https://aventador.com.ar/" onclick="window.open(this.url)" width="410px" height="230px"
-    src="https://aventador.com.ar/" />
+    src="https://i.ibb.co/GPvDqj4/Aventador.png" />
   <img url="https://deploy-travelapp.herokuapp.com/" onclick="window.open(this.url)" width="410px" height="230px"
     src="https://i.ibb.co/yyXPJzz/Travel.png" />
   <img url="https://pi-food-deploy.vercel.app/" onclick="window.open(this.url)" width="410px" height="230px"
